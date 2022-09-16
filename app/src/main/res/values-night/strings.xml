@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="under_weight">Under weight</string>
+    <string name="ideal_weight">Ideal weight</string>
+    <string name="over_weight">Overweight</string>
+</resources>
